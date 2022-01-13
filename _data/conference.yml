@@ -1,0 +1,81 @@
+full_title: 4th International Workshop on Practical Reproducible Evaluation of Systems
+short_title: P-RECS'21
+email: gflofst@sandia.gov
+description: >
+  The P-RECS workshop is the primary forum for the [ACM Emerging Interest 
+  Group (EIG) for Reproducibility and Replicability](https://reproducibility.acm.org/)
+  and focuses heavily on practical, actionable aspects of 
+  reproducibility in broad areas of computational science and data 
+  exploration, with special emphasis on issues in which community 
+  collaboration can be essential for adopting novel methodologies, 
+  techniques and frameworks aimed at addressing some of the challenges 
+  we face today. The workshop brings together researchers and experts to 
+  share experiences and advance the state of the art in the reproducible 
+  evaluation of computer systems, featuring contributed papers and 
+  invited talks.
+location: (Online event, co-located with <a href="http://hpdc.org/2021/" target="_blank">HPDC'21</a>)
+date: June 21st, 2021
+logo_path: ''
+slideshow:
+- id: 0
+  image_path: ./assets/images/slideshow/img01.jpg
+  description: Stockholm
+  photographer_name: edward stojakovic
+  photographer_link: https://www.flickr.com/photos/akasped/
+  active: True
+navbar:
+- id: 0
+  label: Home
+  path: /
+  visible: True
+- id: 1
+  label: Keynote
+  path: /keynote
+  visible: True
+- id: 2
+  label: Program
+  path: /program
+  visible: True
+- id: 3
+  label: Organization
+  path: /organization
+  visible: True
+deadlines:
+- date: 2021-4-20 (extended!)
+  timezone: 11PM PDT
+  text: Submission deadline
+  pass_due: False
+- date: 2021-5-1
+  text: Notification of acceptance
+  pass_due: False
+- date: 2021-5-6
+  text: Camera-ready copy due
+  pass_due: False
+- date: 2021-6-21
+  text: Workshop
+  pass_due: False
+news: []
+sponsors:
+- name: CROSS
+  logo_path: ./assets/images/sponsors/cross-logo.png
+  url: https://cross.ucsc.edu/
+social_media:
+  facebook_link: https://www.facebook.com/precs_workshop/
+  twitter_link: https://twitter.com/precs_workshop
+program_chair:
+- name: Ivo Jimenez
+  org: UC Santa Cruz, University of Sonora
+  homepage: http://linkedin.com/in/ivotron
+- name: Carlos Maltzahn
+  org: UC Santa Cruz
+  homepage: https://users.soe.ucsc.edu/~carlosm
+- name: Jay Lofstead
+  org: Sandia National Laboratories
+  homepage: http://www.lofstead.org/
+steering_committees: []
+technical_program_committees:
+- name: Alexandru Uta
+  org: Leiden University
+- name: Lukas Rupprecht
+  org: IBM Almaden
+webmaster: []

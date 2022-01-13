@@ -1,0 +1,5 @@
+*.sw?
+_site
+.jekyll-metadata
+Gemfile.lock
+*.DS_Store

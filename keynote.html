@@ -1,0 +1,10 @@
+---
+layout: page
+slide_id: 2
+---
+
+{% capture my_include %}{% include keynote.md %}{% endcapture %}
+
+{{ my_include | markdownify }}
+
+{% include sponsors.html %}
