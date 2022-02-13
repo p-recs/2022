@@ -1,5 +1,5 @@
-full_title: 4th International Workshop on Practical Reproducible Evaluation of Systems
-short_title: P-RECS'21
+full_title: 5th International Workshop on Practical Reproducible Evaluation of Systems
+short_title: P-RECS'22
 email: gflofst@sandia.gov
 description: >
   The P-RECS workshop is the primary forum for the [ACM Emerging Interest 
@@ -13,8 +13,8 @@ description: >
   share experiences and advance the state of the art in the reproducible 
   evaluation of computer systems, featuring contributed papers and 
   invited talks.
-location: (Online event, co-located with <a href="http://hpdc.org/2021/" target="_blank">HPDC'21</a>)
-date: June 21st, 2021
+location: co-located with HPDC 2022
+date: Thursday, June 30th, 2022
 logo_path: ''
 slideshow:
 - id: 0
@@ -41,17 +41,17 @@ navbar:
   path: /organization
   visible: True
 deadlines:
-- date: 2021-4-20 (extended!)
-  timezone: 11PM PDT
+- date: 2022-4-6
+  timezone: AoE
   text: Submission deadline
   pass_due: False
-- date: 2021-5-1
+- date: 2022-4-18
   text: Notification of acceptance
   pass_due: False
-- date: 2021-5-6
+- date: 2022-4-21
   text: Camera-ready copy due
   pass_due: False
-- date: 2021-6-21
+- date: 2022-6-30
   text: Workshop
   pass_due: False
 news: []
