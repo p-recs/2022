@@ -1,10 +1,6 @@
 **Registration and Presentations**
 
-We will use the [HPDC registration system](https://cvent.me/L4BkD2) and the [Whova virtual conference platform](https://whova.com/portal/webapp/hpdcf_202106/Agenda/1696493/).
-
-One author of each accepted paper has to register for HPDC'21 with "author registration". Registration is common for the conference and workshops. Please find registration information on the [HPDC'21 website](http://www.hpdc.org/2021/) or above links.
-
-The video conference platform will be Zoom, and anyone can join by clicking [this link](https://ucsc.zoom.us/j/92751446824?pwd=OE5UdTJ2YXlsek9HaEJ1RHRJemUrUT09).
+Resgistration for HPDC 2022 will be required and details will be shared as they become available.
 
 ------------
 
