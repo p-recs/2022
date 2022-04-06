@@ -41,9 +41,9 @@ navbar:
   path: /organization
   visible: True
 deadlines:
-- date: 2022-4-6
+- date: 2022-4-13
   timezone: AoE
-  text: Submission deadline
+  text: Submission deadline (https://easychair.org/conferences/?conf=precs22)
   pass_due: False
 - date: 2022-4-18
   text: Notification of acceptance
