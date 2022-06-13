@@ -7,7 +7,7 @@
 
 **Title**: Taking the Pulse of the Reproducibility of Computational Research
 
-**Abstract**: In the spring of 2021, the Practices WG of the ACM’s EIG on Reproducibility and Replicability held a series of community conversations about topics related to the reproducibility of computational research. Five such meeting were held, each focusing on reproducibility through the lens of a particular topic: Principles, Solutions, Training, Publishing, and Preservation. The virtual discussions, which garnered solid interest from a broad range of stakeholders, was captured via the blog, ``Taking the Pulse.'' This keynote will expand on the ``Taking the Pulse''~\cite{taking-the-pulse} series and summarize the main insights from the community. The talk will also reflect on future needs around reproducibility, which will be of interest to P-RECS, the ACM, and the scientific community at large.
+**Abstract**: In the spring of 2021, the Practices WG of the ACM’s EIG on Reproducibility and Replicability held a series of community conversations about topics related to the reproducibility of computational research. Five such meeting were held, each focusing on reproducibility through the lens of a particular topic: Principles, Solutions, Training, Publishing, and Preservation. The virtual discussions, which garnered solid interest from a broad range of stakeholders, was captured via the blog, "Taking the Pulse." This keynote will expand on the "Taking the Pulse" series and summarize the main insights from the community. The talk will also reflect on future needs around reproducibility, which will be of interest to P-RECS, the ACM, and the scientific community at large.
 
 **Bios**: 
 
