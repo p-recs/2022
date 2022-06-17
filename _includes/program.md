@@ -10,3 +10,5 @@
 | 15:15-15:45 | Managing Randomness to Enable Reproducible Machine Learning | Hana Ahmed and Jay Lofstead |
 | 15:45-16:00 | break | |
 | 16:00-17:00 | Community Discussions | Everyone |
+
+[Proceedings are published here](https://dl.acm.org/citation.cfm?id=3526062)
